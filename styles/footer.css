@@ -1,0 +1,57 @@
+.opgg_footer{
+    border: 2px solid red;
+    height: 535px;
+    display: flex;
+    flex-direction: row;
+    background-color: #5383E8;
+    .opgg_footer_left{
+        border: 2px solid blue;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .opgg_footer_lef_center {
+        border: 2px solid black;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .opgg_footer_lef_center_container{
+        border: 2px solid brown;
+        display: flex;
+        flex-direction: row;
+        li {
+            border: 2px solid aqua;
+            font-size: 14px;
+            display: flex;
+            flex-direction: row;
+            color: #ffffff;
+
+            .help_text_one {
+                width: 87px;
+                height: 33px;
+            }
+
+            .help_text_two {
+                width: 87px;
+                height: 33px;
+            }
+
+            .help_text_three {
+                width: 87px;
+                height: 33px;
+            }
+
+            .help_text_four {
+                width: 87px;
+                height: 33px;
+            }
+
+            .help_text_five {
+                width: 87px;
+                height: 33px;
+            }
+        }
+    }
+
+}
